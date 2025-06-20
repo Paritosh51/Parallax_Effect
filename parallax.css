@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:"Red Hat Text", sans-serif;
+
+}
+.front{
+    background-image: url('./1000_F_560039264_tobKLqQ7i4qeA1krhbQZD7qex8Jtl3im.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.imp{
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 500px;
+    margin-left: 700px;
+    width: 200px;
+    position: absolute;
+
+}
+.front h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    margin-top: 430px;
+    margin-left: 680px;
+    position: absolute;
+
+}
+.container {
+    background-image: url('./lake-velke-zabie-pleso-mountains-background-high-tatras-slovakia-tatra-little-stony-island-223836184.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.back{
+    background-image: url('./winter-landscape-game-vector-illustration-separate-layers-your-design-82120420.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.parallax {
+    height: 400px;
+    width: 300px;
+    background-color: #fff;
+    margin-left: 80px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+}
+.content {
+    height: 400px;
+    width: 300px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+}
+.contain{
+    height: 400px;
+    width: 300px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+
+}
+img{
+    height: 150px;
+    width: 280px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+p{
+    font-size: 15px;
+    padding: 10px;
+    color: black;
+    text-align: justify;
+}
+.parallax a,.container a{
+    bottom: 20px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 80px;
+    text-decoration: none;
+}
+.footer{
+    height: 250px;
+    width: 600px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+    margin-top: 200px;
+    margin-left: 550px;
+    padding: 10px;
+}
+.footer h1{
+    text-align: center;
+    font-size: 35px;
+    color: black;
+}
+.back a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    background-color: #000;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 200px;
+}
